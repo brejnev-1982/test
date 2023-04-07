@@ -2,12 +2,12 @@
 
 void viewMass()
 {
-
+   
 }
 
 int count(char a)
 {
-
+    return (int) a;
 }
 
 
